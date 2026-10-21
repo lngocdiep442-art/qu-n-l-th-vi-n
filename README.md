@@ -1,2 +1,2 @@
-# qu-n-l-th-vi-n
+# quanlythuvien
 bài thực hành lập trình hướng đối tượng
